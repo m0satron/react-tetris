@@ -1,7 +1,7 @@
 
 
 
-**This is is made from the tutorial provded by [weibenfalk](https://github.com/weibenfalk), thanks a lot!
+**This is is made from the tutorial provded by [weibenfalk](https://github.com/weibenfalk), thanks a lot!**
 
 
 
